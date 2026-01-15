@@ -2,7 +2,7 @@
 Each problem is implemented in its own Python file. Click the file links below to view the code directly.
 
 - [jar.py](jar.py) - Cookie Jar
-  - [jar.py](jar.py)
+  - [test_jar.py](test_jar.py)
 - [seasons.py](seasons.py) - Seasons of Love
   - [test_seasons.py](test_seasons.py)
 - [shirtificate.py](shirtificate.py) - CS50 Shirtificate
