@@ -23,6 +23,7 @@ The repository is organized by problem sets, following the course structure:
 
 ```
 .
+├── Final Project - RPG ASCII Battle
 ├── Problem Set 0 - Functions, Variables
 ├── Problem Set 1 - Conditionals
 ├── Problem Set 2 - Loops
@@ -31,8 +32,7 @@ The repository is organized by problem sets, following the course structure:
 ├── Problem Set 5 - Testing
 ├── Problem Set 6 - File I/O
 ├── Problem Set 7 - Regular Expressions
-├── Problem Set 8 - OOP
-├── Final Project
+├── Problem Set 8 - Object-Oriented Programming
 └── README.md
 ```
 
